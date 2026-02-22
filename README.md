@@ -1,21 +1,5 @@
-# Project Title
+# CSCI-B455 Coursework
 
 ## Description
-This is a project README for CSCI-B455. 
+This repo contains my personal work for my Principles of Machine Learning course. 
 
-## Getting Started
-
-### Prerequisites
-List of prerequisites to run the project.
-
-### Installation
-Instructions to set up the project.
-
-## Usage
-How to use this project.
-
-## Contributing
-Guidelines for contributing to this project.
-
-## License
-This project is licensed under the MIT License.
